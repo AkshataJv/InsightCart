@@ -492,9 +492,36 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-**Akshata Jv**
-- GitHub: [@AkshataJv](https://github.com/AkshataJv)
-- Project Link: [https://github.com/AkshataJv/InsightCart](https://github.com/AkshataJv/InsightCart)
+I'm actively learning data science and documenting the journey. Let's connect and learn together!
+
+**Professional:**
+- 💼 **LinkedIn:** [linkedin.com/in/akshata-jadhav-5b5611344](https://linkedin.com/in/akshata-jadhav-5b5611344)
+- 💻 **GitHub:** [@AkshataJv](https://github.com/AkshataJv)
+- 📧 **Email:** akshata.mjv@gmail.com
+
+**Writing:**
+- 📝 **Medium:** [medium.com/@akshata.mjv](https://medium.com/@akshata.mjv)
+
+---
+
+### 👩‍💻 About Me:
+
+🎓 **BTech in AI & Data Science** at K.K. Wagh Institute, Nashik  
+📚 **Currently Learning:** Python, Machine Learning, Data Analysis, Deep Learning  
+🔭 **Working On:** Real-world data science projects, documenting the learning process  
+💬 **Ask Me About:** My learning journey, fraud detection challenges, ML struggles  
+⚡ **Fun Fact:** I debug models more than I write code, and that's okay!
+
+---
+
+### ✍️ What I Write About:
+
+- The honest (messy) process of learning data science
+- Dealing with imbalanced datasets (the struggle is real!)
+- Mistakes I've made and how I fixed them
+- Real project challenges and solutions
+
+**Follow along if you're on a similar journey!**
 
 ---
 
